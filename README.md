@@ -26,7 +26,7 @@ MFC와 DirectShow로 제작된 미리보기 동영상 영상처리 소프트웨�
 
 ### 미리보기 동영상의 설정값 변경
 
-* '기본 영상 설절' 버튼을 클릭하면 촬영중인 미리보기 동영상의 설정값을 변경할 수 있습니다.
+* '기본 영상 설정' 버튼을 클릭하면 촬영중인 미리보기 동영상의 설정값을 변경할 수 있습니다.
 * 미리보기 동영상의 설정값 변경은 미리보기 동영상이 촬영중인 경우에만 가능합니다.
 
 ![PinOptionTest](https://raw.githubusercontent.com/toxync/CamPreviewer/master/demo_images/pin_option_test.gif)
